@@ -1,1 +1,4 @@
+
 # armstrong
+
+armstrong number  
