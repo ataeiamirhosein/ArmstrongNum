@@ -1,6 +1,6 @@
 
 # armstrong
 
-![armstrong number schem](http://www.iotco.net/armstrong.jpg)  
+![armstrong number schem](https://github.com/ataeiamirhosein/ArmstrongNum/blob/master/armstrong.jpg)  
 
 (armstrong number)  
